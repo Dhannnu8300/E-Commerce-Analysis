@@ -5,6 +5,7 @@
 E-Commerce Analysis: Built KPI dashboards and conducted data transformation to analyze sales trends, customer behavior, and delivery performance.
 
 Technologies Used: SQL, Power BI, Tableau, Excel
+
 Key Contributions:
 •	Analyzed sales trends, customer behavior, and delivery performance to optimize business strategies.
 •	Built interactive dashboards to track key KPIs, including delivery time, payment methods, and review scores.
